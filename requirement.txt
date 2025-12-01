@@ -1,0 +1,6 @@
+PyQt5
+matplotlib
+schedule
+sqlite3
+pypdf
+python-dateutil
