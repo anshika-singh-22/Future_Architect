@@ -1,9 +1,3 @@
-This is a fantastic and well-structured project idea! Here are a few different descriptions for your GitHub repository, ranging from a short, punchy tagline to a detailed explanation, so you can choose the one that fits your style best.
-
-🚀 Option 1: Short & Punchy (For the GitHub Summary/Tagline)
-A Python desktop application built with PyQt5 and SQLite3 that helps students define, track, and visualize their career roadmaps with streaks, reminders, and motivational rewards.
-
-🌟 Option 2: Comprehensive & Feature-Focused (For the Main README Description)
 Student Roadmap Tracker
 The Student Roadmap Tracker is a cross-platform desktop application designed to help students and self-learners bridge the gap between their career goals and daily learning tasks.
 
